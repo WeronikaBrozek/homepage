@@ -1,0 +1,22 @@
+.section {
+    background-color: #ebf1de;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+.section__header {
+    padding-top: 15px;
+}
+
+.section__description {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.section--dark {
+    background-color: #ebf1de34;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 40px; 
+}
