@@ -1,4 +1,8 @@
-console.log("Cześć!");
+function welcome() {
+    console.log("Witaj!");
+}
+
+welcome();
 
 let button = document.querySelector(".js-button");
 let body = document.querySelector(".js-body");
