@@ -1,7 +1,7 @@
 # Welcome to my Homepage!
 It is my first created page that contains basic informations about me.
 
-Here's the link: [Homepage]([title](https://www.example.com))
+Here's the link: [Homepage](https://weronikabrozek.github.io/homepage/)
 
 ## What you can find there?
 This page include simple introduction, with describtion of interests and the table with 5 favourite music artists.
@@ -18,4 +18,4 @@ __Dark mode__
 ## Technologies
 * HTML (BEM),
 * CSS,
-* JavaScript ES6.
+* JavaScript
